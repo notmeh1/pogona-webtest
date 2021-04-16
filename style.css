@@ -1,0 +1,40 @@
+html{
+    background:lightgray
+}
+
+body{
+    background:white;
+    padding: 2em 2em 4em;
+    max-width: 400px;
+    margin:0 auto;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Kiwi Maru', serif;
+    color:orange
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+blockquote{
+    text-align: center;
+}
+
+p{
+    font-family: 'Kiwi Maru', serif;
+}
+
+strong a{
+    text-decoration: none;
+    color:orange;
+}
+
+ul{
+    font-family: 'Kiwi Maru', serif;
+    font-style: italic;
+}
